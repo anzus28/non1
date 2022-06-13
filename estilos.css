@@ -1,0 +1,20 @@
+*{
+    background-image: url("images\background.png");
+}
+body{
+    font-family: 'Roboto slab';
+background-color: aqua;
+background-image: url(images\background.png);
+} 
+a{
+  /*border-style: solid;
+  color: white;*/
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: #488000;
+}
+footer a{
+    color: white;
+}
